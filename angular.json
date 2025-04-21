@@ -91,6 +91,8 @@
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
             "assets": [
+              "favicon.ico",
+              "assets",
               {
                 "glob": "**/*",
                 "input": "public"
